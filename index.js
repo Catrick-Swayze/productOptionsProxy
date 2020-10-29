@@ -3,8 +3,7 @@ const express = require('express');
 
 const app = express();
 
-const PORT = 3000;
-const HOST = 'localhost';
+const PORT = 4000;
 
 app.use(express.static(__dirname));
 
@@ -20,6 +19,6 @@ app.get('/loaderio-7659432ce3845189f6aefe0fe9e5faa8', (req, res) => {
   res.sendFile('./loaderio-7659432ce3845189f6aefe0fe9e5faa8.txt');
 });
 
-app.listen(PORT, HOST, () => {
-  console.log(`Starting Proxy at ${HOST}:${PORT}`);
+app.listen(PORT, () => {
+  console.log(`Starting Proxy at localhost:${PORT}`);
 });
