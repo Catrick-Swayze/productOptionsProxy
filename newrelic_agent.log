@@ -93,3 +93,33 @@
 {"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-L54I56Q","pid":244,"time":"2020-10-29T19:30:36.434Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
 {"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-L54I56Q","pid":244,"time":"2020-10-29T19:30:36.436Z","msg":"Agent state changed from connected to started."}
 {"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-L54I56Q","pid":244,"time":"2020-10-29T19:30:37.436Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-L54I56Q","pid":278,"time":"2020-10-29T20:09:35.255Z","msg":"Using New Relic for Node.js. Agent version: 6.13.2; Node version: v10.19.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-L54I56Q","pid":278,"time":"2020-10-29T20:09:37.793Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-L54I56Q","pid":278,"time":"2020-10-29T20:09:38.235Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-L54I56Q","pid":278,"time":"2020-10-29T20:09:38.235Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-L54I56Q","pid":278,"time":"2020-10-29T20:09:40.855Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-L54I56Q","pid":278,"time":"2020-10-29T20:09:40.855Z","msg":"Connected to collector-006.newrelic.com:443 with agent run ID Bc-CGsHFuhWtACyQ7ychGMdfmyHUAAgBAAAnIQEAAAEWAgQnIRjGAwAGNi4xMy4yAA9ERVNLVE9QLUw1NEk1NlEACVNEQ19Qcm94eQ.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-L54I56Q","pid":278,"time":"2020-10-29T20:09:40.855Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2920687/applications/656480454","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-L54I56Q","pid":278,"time":"2020-10-29T20:09:40.856Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-L54I56Q","pid":278,"time":"2020-10-29T20:09:40.858Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-L54I56Q","pid":278,"time":"2020-10-29T20:09:41.859Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-L54I56Q","pid":297,"time":"2020-10-29T20:13:02.280Z","msg":"Using New Relic for Node.js. Agent version: 6.13.2; Node version: v10.19.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-L54I56Q","pid":297,"time":"2020-10-29T20:13:04.046Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-L54I56Q","pid":297,"time":"2020-10-29T20:13:04.391Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-L54I56Q","pid":297,"time":"2020-10-29T20:13:04.391Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-L54I56Q","pid":297,"time":"2020-10-29T20:13:06.938Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-L54I56Q","pid":297,"time":"2020-10-29T20:13:06.938Z","msg":"Connected to collector-006.newrelic.com:443 with agent run ID BZC7EK6bHhdtACyQ7ychGMdfmyLEAAgBAAAnIQEAAAEpAgQnIRjGAwAGNi4xMy4yAA9ERVNLVE9QLUw1NEk1NlEACVNEQ19Qcm94eQ.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-L54I56Q","pid":297,"time":"2020-10-29T20:13:06.938Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2920687/applications/656480454","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-L54I56Q","pid":297,"time":"2020-10-29T20:13:06.939Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-L54I56Q","pid":297,"time":"2020-10-29T20:13:06.941Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-L54I56Q","pid":297,"time":"2020-10-29T20:13:07.942Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-L54I56Q","pid":315,"time":"2020-10-29T20:13:35.941Z","msg":"Using New Relic for Node.js. Agent version: 6.13.2; Node version: v10.19.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-L54I56Q","pid":315,"time":"2020-10-29T20:13:37.828Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-L54I56Q","pid":315,"time":"2020-10-29T20:13:38.206Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-L54I56Q","pid":315,"time":"2020-10-29T20:13:38.206Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-L54I56Q","pid":315,"time":"2020-10-29T20:13:40.868Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-L54I56Q","pid":315,"time":"2020-10-29T20:13:40.868Z","msg":"Connected to collector-006.newrelic.com:443 with agent run ID BV0cPjOtmdF6ACyQ7ychGMdfmyLEAAgBAAAnIQEAAAE7AgQnIRjGAwAGNi4xMy4yAA9ERVNLVE9QLUw1NEk1NlEACVNEQ19Qcm94eQ.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-L54I56Q","pid":315,"time":"2020-10-29T20:13:40.868Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2920687/applications/656480454","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-L54I56Q","pid":315,"time":"2020-10-29T20:13:40.870Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-L54I56Q","pid":315,"time":"2020-10-29T20:13:40.872Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"DESKTOP-L54I56Q","pid":315,"time":"2020-10-29T20:13:41.873Z","msg":"Starting initial 1000ms harvest."}
