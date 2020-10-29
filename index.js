@@ -15,8 +15,8 @@ app.get('/*', (req, res) => {
   res.sendFile(__dirname + '/index.html');
 });
 
-app.get('/loaderio-7659432ce3845189f6aefe0fe9e5faa8', (req, res) => {
-  res.sendFile('./loaderio-7659432ce3845189f6aefe0fe9e5faa8.txt');
+app.get('/loaderio-faee2bbf3632f279cf80486363beb340', (req, res) => {
+  res.sendFile('./loaderio-faee2bbf3632f279cf80486363beb340.txt');
 });
 
 app.listen(PORT, () => {
