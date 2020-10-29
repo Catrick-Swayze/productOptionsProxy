@@ -16,6 +16,10 @@ app.get('/*', (req, res) => {
   res.sendFile(__dirname + '/index.html');
 });
 
+app.get('/loaderio-7659432ce3845189f6aefe0fe9e5faa8', (req, res) => {
+  res.sendFile('./loaderio-7659432ce3845189f6aefe0fe9e5faa8.txt');
+});
+
 app.listen(PORT, HOST, () => {
   console.log(`Starting Proxy at ${HOST}:${PORT}`);
 });
